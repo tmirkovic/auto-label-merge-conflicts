@@ -1,4 +1,4 @@
-name: 'Auto-label merge conflicts'
+name: 'Auto-label merge conflicts - @actions/core fix'
 description: 'Github Action to automatically label PRs with "conflict" label'
 author: 'Marko Schilde'
 branding:
